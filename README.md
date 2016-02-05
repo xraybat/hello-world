@@ -1,2 +1,2 @@
 # hello-world
-inevitable hello world test (master and branch change)
+inevitable hello world test (branch change)
